@@ -219,21 +219,6 @@ footer {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media screen and (min-width:1200px){
 
     .container {
@@ -331,16 +316,17 @@ footer {
         height: 120px;
         overflow: hidden;
         margin-bottom: 2em;
+        display:block;
     }
 
     .reg-main article img {
-        float: left;
         margin-right: 30px;
         width: 200px;
     }
 
     .reg-main article h2 {
         margin: 0;
+        text-align: left;
     }
 
     .reg-main article p {
